@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 10px 40px;
+    background-color:  rgb(10, 16, 66);
+
+}
+p{
+    font-size: 20px;
+}
+.logo{ 
+    color:rgb(100, 176, 206);
+}
+.alinhado-horizontal{
+   display: flex;
+   gap: 30px;
+   padding: 30px;
+   color:  rgb(10, 16, 66);
+   background-color: rgb(100, 176, 206);
+}
+img{
+border-radius: 30px;
+box-shadow: 20px 20px 20px rgb(0, 0, 0);
+width: 400px;
+height: 600px;
+}
+footer{
+color:rgb(100, 176, 206);
+background-color: rgb(10, 16, 66);
+padding: 20px 30px;
+}
+button{
+color:  rgb(100, 176, 206);
+background-color:  rgb(10, 16, 66);
+
+}
+
